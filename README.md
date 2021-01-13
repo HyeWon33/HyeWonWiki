@@ -59,6 +59,9 @@ vhfej/aoqdlfma
 1.1.3 Install Dependent ROS 1 Packages
 https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup
 
+1.7 follow
+
+https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3-with-openmanipulator
 
 
 
