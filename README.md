@@ -50,6 +50,13 @@ catkin build에서 src에는 없는데 build에는 있어서 에러가 나는 �
 sudo apt-get install ros-melodic-slam-gmapping
 
 
+no map
+
+sudo apt-get install ros-indigo-map-server
+rosrun map_server map_saver -f ~/map/maptest
+vhfej/aoqdlfma
+
+
 
 ## 2. 팁
 
