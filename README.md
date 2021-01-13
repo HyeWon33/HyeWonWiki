@@ -1,6 +1,8 @@
 # HyeWonWiki
 
-# 오류 & 팁 & 실수
+# 실수, 오류
+
+
 
 ## 0. 선배님께 질문하기 전에 체크
 
@@ -103,7 +105,7 @@ sudo apt install ros-melodic-move-base-msgs
 
 터틀봇을 돌릴려면
 
-![Screenshot from 2020-11-23 19-30-37](/home/won/Pictures/Screenshot from 2020-11-23 19-30-37.png)
+![Screenshot from 2020-11-23 19-30-37](https://user-images.githubusercontent.com/52944554/104449160-860e0380-55e1-11eb-96ac-93987e067d46.png)
 
 1. 위 사진처럼 맞춰준다.
 2. roscore
