@@ -46,7 +46,8 @@
 
 catkin build에서 src에는 없는데 build에는 있어서 에러가 나는 경우가 있다~이럴 때는 한번 build, devel, logs지우고 cm 해봥
 
-
+ no gmapping
+sudo apt-get install ros-melodic-slam-gmapping
 
 
 
