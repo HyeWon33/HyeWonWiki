@@ -63,7 +63,7 @@ sudo apt-get install ros-melodic-slam-gmapping
 map이 없다고 하면
 sudo apt-get install ros-indigo-map-server
 rosrun map_server map_saver -f ~/map/maptest
-vhfej/aoqdlfma
+map이름 maptest가 map사진 이름
 
 위에 것들 없으면 그냥 아예
 https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup 에 1.1.3 Install Dependent ROS 1 Packages 부분 다운
@@ -99,6 +99,10 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3
 
 sudo apt install ros-melodic-move-base-msgs
 
+### 2.4 ros 파일 위치
+
+폴더 열어 -> 왼쪽 아래 Other Locations -> Computer -> opt -> ros -> melodic -> share
+/opt/ros/melodic/share
 
 
 ## 3. 터틀봇 ip연결 및 실행
