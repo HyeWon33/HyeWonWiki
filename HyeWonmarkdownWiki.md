@@ -22,4 +22,4 @@
 Issues -> New issue -> 사진 드래그 -> 나오는 주소 긁어서 붙여잉
 
 
-1. 템플릿 template
+## 1. 템플릿 template
