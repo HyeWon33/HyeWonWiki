@@ -104,6 +104,14 @@ sudo apt install ros-melodic-move-base-msgs
 폴더 열어 -> 왼쪽 아래 Other Locations -> Computer -> opt -> ros -> melodic -> share
 /opt/ros/melodic/share
 
+### 2.5 로스 토픽 보려면
+
+- rostopic echo {name}
+  - 로스 이름 얻으려면
+     rostopic list
+
+- forexample ->  rostopic echo /move_base/goal
+
 
 ## 3. 터틀봇 ip연결 및 실행
 
