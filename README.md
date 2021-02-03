@@ -33,6 +33,10 @@
 
 - roscore가 실행이 안된다면 localhost자리에 아이피가 쓰여있으면 바꿔야지~!!!
 
+- source ~/.bashrc
+
+
+
 ## 1. 오류
 
 ### 1.1 turtlebot이 안 멈출때
