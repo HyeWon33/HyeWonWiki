@@ -77,7 +77,10 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup �
 집게 작동 하려고 따라 해 보기는
 https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3-with-openmanipulator 에 1.7 Operate the Actual OpenMANIPULATOR
 
+### 1.5 Unable to register with master node [http://local host:11311]: master may not be running yet. Will keep trying.
+roscore 했니? 안했을꺼야 해봐
 
+ 
 
 ## 2. 팁
 
