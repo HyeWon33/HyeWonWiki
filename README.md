@@ -80,6 +80,9 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3
 ### 1.5 Unable to register with master node [http://local host:11311]: master may not be running yet. Will keep trying.
 roscore 했니? 안했을꺼야 해봐
 
+### 1.6 catkin build
+~/ws_moveit/src 에서 catkin build는 안되는듯 src 나와서 catkin build 해보기
+
  
 
 ## 2. 팁
