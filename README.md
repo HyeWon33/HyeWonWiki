@@ -83,6 +83,11 @@ roscore 했니? 안했을꺼야 해봐
 ### 1.6 catkin build
 ~/ws_moveit/src 에서 catkin build는 안되는듯 src 나와서 catkin build 해보기
 
+### 1.7 [joint_state_publisher-1] process has died [pid 25103, exit code 1, cmd /opt/ros/melodic/lib/joint_state_publisher/joint_state_publisher __name:=joint_state_publisher __log:=/home/won/.ros/log/7892ff84-a65a-11eb-9237-94e6f731e4b7/joint_state_publisher-1.log].
+
+이런 좀 이상한 에러가 뜨면 혹시 launch 파일이나 udrf 파일에 한글이 있는지 확인해봐 한글 있으면 에러난다.....
+
+
  
 
 ## 2. 팁
