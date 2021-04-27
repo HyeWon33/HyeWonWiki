@@ -35,6 +35,9 @@
 
 - source ~/.bashrc
 
+- source devel/setup.bash
+
+-  연결 하고 전원 키기
 
 
 ## 1. 오류
