@@ -75,10 +75,6 @@ map이름 maptest가 map사진 이름
 위에 것들 없으면 그냥 아예
 https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup 에 1.1.3 Install Dependent ROS 1 Packages 부분 다운
 
-#### 1.4.2 그 외
-
-집게 작동 하려고 따라 해 보기는
-https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3-with-openmanipulator 에 1.7 Operate the Actual OpenMANIPULATOR
 
 ### 1.5 Unable to register with master node [http://local host:11311]: master may not be running yet. Will keep trying.
 roscore 했니? 안했을꺼야 해봐
@@ -129,6 +125,11 @@ sudo apt install ros-melodic-move-base-msgs
      rostopic list
 
 - forexample ->  rostopic echo /move_base/goal
+
+### 2.6 터틀봇 + mani 작동 해보기
+
+집게 작동 하려고 따라 해 보기는
+https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3-with-openmanipulator 에 1.7 Operate the Actual OpenMANIPULATOR
 
 
 ## 3. 터틀봇 ip연결 및 실행
