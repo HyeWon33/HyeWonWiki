@@ -8,10 +8,9 @@
 [0. 미리 체크 ](#0-선배님께-질문하기-전에-체크)  
 [1. 오류 ](#1-오류)  
 [2. 팁 ](#2-팁)  
-[3. 터틀봇 작동 ](#3-터틀봇-ip연결-및-실행)  
+[3. 터틀봇 작동 ](#3-터틀봇-ip연결-및-실행) 
+[4. Openmanipulator-x와 만난 에러 ](#4-팔-에러) 
 ---
-
-
 
 
 
@@ -145,3 +144,9 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3
 5. 터틀봇 이름@터틀봇  에서 roslaunch turtlebot3_bringup turtlebot3_robot.launch
 6. 새탭
 7. rosrun 패키지 이름 파이썬파일이름.py
+
+## 4. 팔 에러
+
+### 4.1 URDF/COLLADA file is not a valid robot model.
+- 이 에러는 moveit 패키지를 만들 때 자주 나타났다.
+- 한번 패키지를 만들면 다음에는 새로 만드는 방법을 모르겠다. 그래서 다 삭제하고 다시 설치 했지만 또 저런 문구가 나왔다. 그래서 기본 위치에서 cm 해주고 source devel/setup.bash 해주니까 되었다.(여러번 하였었다.)
