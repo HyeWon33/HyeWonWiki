@@ -130,6 +130,10 @@ sudo apt install ros-melodic-move-base-msgs
 집게 작동 하려고 따라 해 보기는
 https://emanual.robotis.com/docs/en/platform/turtlebot3/manipulation/#turtlebot3-with-openmanipulator 에 1.7 Operate the Actual OpenMANIPULATOR
 
+### 2.7 코드 작성 할 때
+- 다 같이 앞으로 땡겨오기 : shift + tab
+- / : ctrl + /
+
 
 ## 3. 터틀봇 ip연결 및 실행
 
